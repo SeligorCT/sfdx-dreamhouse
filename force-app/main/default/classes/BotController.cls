@@ -10,7 +10,7 @@ public with sharing class BotController {
             this.utterancePattern = Pattern.compile(patternStr);
         }
 
-    
+    }
 
     static List<HandlerMapping> handlerMappings;
     
