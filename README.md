@@ -1,6 +1,6 @@
 # DreamHouse Sample Application
 
-DreamHouse is a sample application that demonstrates the unique value proposition of the Salesforce App Cloud for building Employee Productivity and Customer Engagement apps.
+DreamHouse - application that demonstrates the unique value proposition of the Salesforce App Cloud for building Employee Productivity and Customer Engagement apps.
 
 Check out the [DreamHouse microsite](http://www.dreamhouseapp.io/) for more information.
 
