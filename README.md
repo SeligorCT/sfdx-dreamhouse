@@ -17,7 +17,7 @@ Check out the [DreamHouse microsite](http://www.dreamhouseapp.io/) for more info
 
 [Force.com IDE 2 Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_ide2.meta/sfdx_ide2/sfdx_ide2_get_started.htm)
 
-## Installation Instructionssdfsdfqwesdsdffbdfb
+## Installation Instruction
 
 1. Install Salesforce DX. Enable the Dev Hub in your org or sign up for a Dev Hub trial org and install the Salesforce DX CLI. Follow the instructions in the [Salesforce DX Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm?search_text=trial%20hub%20org) or in the [App Development with Salesforce DX](https://trailhead.salesforce.com/modules/sfdx_app_dev) Trailhead module.
 
